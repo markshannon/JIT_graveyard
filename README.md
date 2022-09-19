@@ -4,8 +4,7 @@ A list of dead JIT compiler projects for CPython.
 > Those who fail to learn from history are doomed to repeat it.
 
   Sir Winston Churchill
-
-## The main efforts
+  
 
 ### Unladen Swallow
 
