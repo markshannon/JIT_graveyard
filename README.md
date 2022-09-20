@@ -22,12 +22,11 @@ https://github.com/pyston/pyston_v1/tree/v1.0
 Note Pyston version 2 is a different project and still alive
 https://github.com/pyston/pyston
 
-### Sky Bison
+### Skybison
 
-Originally called Pyro, this was Instragram (now Meta)'s attempt at repeating history.
+Originally called Pyro, this was Instagram (now Meta)'s attempt at repeating history.
 
-Re-implemented the VM in C++, but used their own back end instead of LLVM.
-The back end lives on in Cinder.
+Re-implemented the VM in C++, including an interpreter written in assembly.
 
 https://github.com/facebookexperimental/skybison
 
