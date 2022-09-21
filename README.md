@@ -7,9 +7,8 @@ A list of dead JIT compiler projects for CPython.
 
 ### Psyco
 
-An importable extension module that did basic JIT of the eval loop calling CPython
-APIs similar to what MyPyC and Cython might do without any type annotations. 32-bit
-x86 only. Python <= 2.6 only.
+An importable extension module that enabled some form of JIT of the eval loop calling
+CPython APIs. From the y2k Python 2.0 era. 32-bit x86 only. Python <= 2.6 only.
 
 http://psyco.sourceforge.net/ _(yes, `http` without an `s` - "it's the 90s")_
 
